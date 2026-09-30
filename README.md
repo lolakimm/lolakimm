@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Projects
+
+### FabFlix Movie Database App
+### PeterTheCourseAdvisor Course Recommendation App
+### Web Search Engine
+
 <!--
 **lolakimm/lolakimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
