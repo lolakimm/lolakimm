@@ -9,13 +9,13 @@ Contributor
 - Adapted SQL database operations to MongoDB queries during database migration.
 
 ### PeterTheCourseAdvisor Course Recommendation App
-Contributor
+Contributor  
 Link: https://github.com/eugenegujing/searchengine 
 - Worked on retrieving API data and converting responses into structured JSON for application use.
 - Developed the login interface and authentication functionality.
 
 ### Web Search Engine  
-Contributor
+Contributor  
 Link: https://github.com/Spring-ms/Index-Search
 - Developed an HTML parser to extract and process webpage content.
 - Enhanced phrase matching to support queries with any number of terms.
